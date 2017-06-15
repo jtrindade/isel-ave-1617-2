@@ -1,1 +1,2 @@
- * WeakReference
+* Weak References
+* Object Ressurection
